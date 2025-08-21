@@ -44,9 +44,9 @@ I'm a certified Data Engineer with hands-on experience in building scalable, clo
 
 ## 🎓 Certifications
 
-- Microsoft Certified: Azure Data Engineer Associate  
-- Microsoft Certified: Azure Fundamentals 
-- Microsoft Certified: Azure Data Fundamentals  
+- [Microsoft Certified: Azure Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/SuparnaChakraborty-1933/90424E311D72C9B0?sharingId)  
+- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/SuparnaChakraborty-1933/DDC09A2EF5C92846?sharingId) 
+- Microsoft Certified: Azure Data Fundamentals(https://learn.microsoft.com/api/credentials/share/en-us/SuparnaChakraborty-1933/EAE117B47DABF851?sharingId)  
 - AWS Data Engineer Certification from LinkedIn Learning  
 - Google Data Engineer Certification from LinkedIn Learning   
 - Multiple LinkedIn Learning Certification (Python Programming,Pyspark , Data Engineering , Azure , AwS , GCP)  
