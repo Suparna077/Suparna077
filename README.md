@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Suparna Chakraborty
 
-🎯 Azure Data Engineer | Cross-Cloud ETL Specialist | Germany-bound 🇩🇪  
-📍 Currently in Kolkata, India | Onboarding with TCS September 2025 | Actively preparing for relocation to Germany  
+🎯 Azure Data Engineer | Cross-Cloud ETL Specialist 
+📍 Currently in Kolkata, India | Onboarding with TCS September 2025 | Ex PwC
 📫 [LinkedIn](https://www.linkedin.com/in/suparna-chakraborty-073764a5/) | [GitHub](https://github.com/Suparna077)
 
 ---
@@ -20,8 +20,7 @@ I'm a certified Data Engineer with hands-on experience in building scalable, clo
 ## 🧠 Current Focus
 
 - 🔧 Deepening expertise in **DevOps**, CI/CD pipelines, and workflow automation  
-- 🌍 Preparing for relocation to Germany: B1-level German fluency, visa logistics, and bilingual documentation  
-- 📁 Building a GitHub portfolio with real-world ETL projects and bilingual summaries  
+- 📁 Building a GitHub portfolio with real-world ETL projects  
 - 🧪 Exploring **data observability**, **cost optimization**, and **data governance** strategies
 
 ---
@@ -65,7 +64,6 @@ I'm a certified Data Engineer with hands-on experience in building scalable, clo
 ## 🧭 Long-Term Vision
 
 - 🏗️ Become a **leading expert in Data Engineering**, specializing in distributed systems, cross-cloud orchestration, and real-time analytics  
-- 🌍 Establish a strong presence in the **German tech ecosystem**, contributing to open-source projects and mentoring aspiring engineers  
 - 📚 Continue mastering advanced frameworks like **Apache Spark**, **Airflow**, **dbt**, and **Kubernetes**  
 - 🧪 Explore **data observability**, **cost optimization**, and **data governance** in enterprise-scale environments
 
