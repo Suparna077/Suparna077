@@ -65,7 +65,7 @@ I'm a certified Data Engineer with hands-on experience in building scalable, clo
 ## 🧭 Long-Term Vision
 
 - 🏗️ Become a **leading expert in Data Engineering**, specializing in distributed systems, cross-cloud orchestration, and real-time analytics  
-- 📚 Continue mastering advanced frameworks like **Apache Spark**, **Airflow**, **dbt**,**Kubernetes**,**MLOPS**,**LLM**,**AI** **and more**  
+- 📚 Continue mastering advanced frameworks like **Apache Spark**, **Airflow**, **dbt**, **Snowflake**, **Kubernetes**, **MLOPS**, **LLM**, **AI**  **and more**  
 - 🧪 Explore **data observability**, **cost optimization**, and **data governance** in enterprise-scale environments
 
 ---
