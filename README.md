@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Suparna Chakraborty
 
-🎯 Azure Data Engineer | Cross-Cloud ETL Specialist 
-📍 Currently in Kolkata, India | Onboarding with TCS September 2025 | Ex PwC
+🎯 Azure Data Engineer | Cross-Cloud ETL Specialist | TCS | Ex PwC
+📍 Currently in Kolkata, India 
 
 📫 [LinkedIn](https://www.linkedin.com/in/suparna-chakraborty-073764a5/) | [GitHub](https://github.com/Suparna077)
 
