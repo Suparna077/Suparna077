@@ -13,7 +13,7 @@ I'm a certified Data Engineer with hands-on experience in building scalable, clo
 
 - Hybrid orchestration using **Azure Data Factory**, **Databricks**, **Airflow**, and **SnapLogic**
 - Distributed data processing with **PySpark**, **Spark optimization**, and **SQL**
-- Real-time ingestion and transformation using **Azure IoT Hub**, **AWS S3**, and **Kinesis**
+- Real-time ingestion and transformation using **Azure IoT Hub**, **AWS S3**, and **Azure Data Lake Gen2**
 - GDPR-compliant data migration and documentation for enterprise clients
 
 ---
@@ -65,7 +65,7 @@ I'm a certified Data Engineer with hands-on experience in building scalable, clo
 ## 🧭 Long-Term Vision
 
 - 🏗️ Become a **leading expert in Data Engineering**, specializing in distributed systems, cross-cloud orchestration, and real-time analytics  
-- 📚 Continue mastering advanced frameworks like **Apache Spark**, **Airflow**, **dbt**, **Snowflake**, **Kubernetes**, **MLOPS**, **LLM**, **AI**  **and more**  
+- 📚 Exploring and mastering advanced frameworks like **Apache Spark**, **Airflow**, **dbt**, **Snowflake**, **Kubernetes**, **MLOPS**, **LLM**, **AI**  **and more**  
 - 🧪 Explore **data observability**, **cost optimization**, and **data governance** in enterprise-scale environments
 
 ---
